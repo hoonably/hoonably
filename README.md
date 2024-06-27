@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably"/>
 
 
-  ### 😄 Park Jeonghoon 😄
+  ### 😄 Park Jeonghoon (박정훈) 😄
   <br>
   🎓 UNIST CSE (컴퓨터 공학과) 재학중
 <!--
