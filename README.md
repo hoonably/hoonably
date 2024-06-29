@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably"/>
+<a href="https://solved.ac/profile/hoonably"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably"/></a>
 
 
   ### 😄 Park Jeonghoon (박정훈) 😄
