@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://solved.ac/profile/hoonably"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably"></a>
-
 
   ### 😄 Park Jeonghoon (박정훈) 😄
   <br>
@@ -36,11 +34,16 @@ Here are some ideas to get you started:
 
   <br><br><br>
  
-</div>
+<!--
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably)](https://github.com/2ykwang/solvedac-readme-badge)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably&compact=1&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
+-->
+### 🛠 PS (Problem Solving) 🛠
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark)](https://solved.ac/hoonably)
 
-
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+<br><br><br>
   
 ### 🛠 SKILLS 🛠
 
@@ -58,7 +61,7 @@ https://img.shields.io/badge/ 글자 - 색코드 ?style=flat-square&logo= 로고
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
 
-
+  
 <!--
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
@@ -73,4 +76,5 @@ https://img.shields.io/badge/ 글자 - 색코드 ?style=flat-square&logo= 로고
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 -->
 
-</div>
+<br><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
