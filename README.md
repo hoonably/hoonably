@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
+</br>
 <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-GitBlog-181717?style=flat-square&logo=GitHub&logoColor=white&"/></a>
 
 <br>
 
 
-  ### 😄 Park Jeonghoon (박정훈) 😄
-  <br>
-  🎓 UNIST CSE (컴퓨터 공학과) 재학중
+## 😄 Jeonghoon Park 박정훈 😄
+<br>
+ 🎓  UNIST CSE (컴퓨터 공학과) 재학중
 <!--
   🔎 삼성 청년 SW 아카데미 (SSAFY) 6기
   🗣 Kakao Corp
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark)](https://solved.ac/hoonably)
 
-<br><br><br>
+<br><br>
   
 ### 🛠 SKILLS 🛠
 
