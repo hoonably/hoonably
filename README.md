@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </br>
 <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-GitBlog-181717?style=flat-square&logo=GitHub&logoColor=white&"/></a>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 😄 Jeonghoon Park 박정훈 😄
 <br>
- 🎓  UNIST CSE (컴퓨터 공학과)
+ 🎓  UNIST CSE (Computer Science & Engineering)
 <!--
   🔎 삼성 청년 SW 아카데미 (SSAFY) 6기
   🗣 Kakao Corp
