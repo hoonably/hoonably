@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 😄 Jeonghoon Park 박정훈 😄
 <br>
- 🎓  UNIST CSE (컴퓨터 공학과) 재학중
+ 🎓  UNIST CSE (컴퓨터 공학과)
 <!--
   🔎 삼성 청년 SW 아카데미 (SSAFY) 6기
   🗣 Kakao Corp
