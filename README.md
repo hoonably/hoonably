@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 <br>
 
 
-## 😄 Jeonghoon Park 박정훈 😄
+# 🇰🇷　Jeonghoon Park　🇰🇷
 <br>
- 🎓  UNIST CSE (Computer Science & Engineering)
+
+| Start | End | Experience |
+|:-------:|:-----:|:-----:|
+| 2020 | ~ | 🎓 UNIST CSE (Computer Science & Engineering)|
+
 <!--
   🔎 삼성 청년 SW 아카데미 (SSAFY) 6기
   🗣 Kakao Corp
@@ -40,17 +44,19 @@ Here are some ideas to get you started:
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably)](https://github.com/2ykwang/solvedac-readme-badge)
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably&compact=1&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
 -->
-### 🛠 PS (Problem Solving) 🛠
+## 🛠 PS (Problem Solving) 🛠
+### 💡 Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark)](https://solved.ac/hoonably)
 
 <br><br>
   
-### 🛠 SKILLS 🛠
+## 🛠 SKILLS 🛠
 
 <!-- https://simpleicons.org/?q=C%2B%2B 이 사이트에서 검색
 https://img.shields.io/badge/ 글자 - 색코드 ?style=flat-square&logo= 로고이름 &logoColor=white
 -->
+
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
