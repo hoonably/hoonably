@@ -93,9 +93,9 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 |-------------|-------------------------------------------|
 | Expert      | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)   |
 | Proficient  |   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  |
-| Competent   | ![Python](https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white) |
+| Competent   | ![Python](https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
 | Familiar    | ![Java](https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white) |
-| Novice      | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
+| Novice      | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 
 <!--
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
