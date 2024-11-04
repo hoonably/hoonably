@@ -1,21 +1,3 @@
-<!--
-**hoonably/hoonably** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<div align="center">
--->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
   
 
@@ -34,7 +16,7 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <img src="{링크}"/>
 </p>
 -->
-<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Blog-181717?style=flat&logo=GitHub&logoColor=white&"/></a>
+<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-181717?style=flat&logo=GitHub&logoColor=white&"/></a>
 <a href="https://www.instagram.com/hoonably/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&"/></a>
 
 <br>
@@ -72,7 +54,6 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <br><br>
 
 ## 🚀 Projects
-~~라고 하기엔 이제 전공 새내기라 딱히 없어서 끄적끄적 공부했던 것들~~
 - [Data Structure](https://github.com/hoonably/data-structure) : Data structure by C++
 - [MIPS Assembly]() : 
 
@@ -80,10 +61,10 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <br><br>
 
 ## 🔭 Interests
-- Artificial Intelligence
 - Software Engineering
 - Web Development (React, Node.js)
 - Cloud Computing (AWS, Docker)
+- Artificial Intelligence
 
 <br><br>
 
