@@ -7,7 +7,7 @@
 
 <!--
 뱃지 만들기 : 
-https://simpleicons.org/ 사이트 들어가서 검색
+https://simpleicons.org/
 https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
 
 Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본적으로는 HTML을 사용해야함.
@@ -16,7 +16,7 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <img src="{링크}"/>
 </p>
 -->
-<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-181717?style=flat&logo=GitHub&logoColor=white&"/></a>
+<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&"/></a>
 <a href="https://www.instagram.com/hoonably/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&"/></a>
 
 <br>
