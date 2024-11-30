@@ -115,13 +115,13 @@ I want to do some project!
     <tr>
       <td>Proficient</td>
       <td>
+        <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white" alt="Python" style="display: inline-block;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" style="display: inline-block;">
       </td>
     </tr>
     <tr>
       <td>Competent</td>
       <td>
-        <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white" alt="Python" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" style="display: inline-block;">
       </td>
     </tr>
