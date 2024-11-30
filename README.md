@@ -32,7 +32,7 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 |:-------:|:-----:|:-----:|:-----:|
 | 2020 | ~ |<img src="https://github.com/user-attachments/assets/191a5ba1-dc55-49de-9cb6-39166240aa33" alt="UNIST image" width="25"/> [UNIST](https://www.unist.ac.kr/) | 🎓 B.S. in Computer Science & Engineering|
 
-| UNIST | 2020 ~ now |
+| UNIST | subjects |
 |:-------:|:-----:|
 | **Major** | Advanced Programming, System Programming, <br><a href="https://github.com/hoonably/data-structure" target="_blank">Data Structures</a>, Computer Architecture, Principles of Programming Languages |
 | **Math** | Calculus I, Applied Linear Algebra, <br>Probability and Random Process, Statistics, Discrete Mathematics |
@@ -68,7 +68,8 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
     <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile">
   </a>
 
-### ICPC 2024 Seoul Online Preliminary Contest 2024. 10. 26
+### ICPC 2024 Seoul Online Preliminary Contest 
+  - 2024.10.26
   - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
   - 201st / 455
 
