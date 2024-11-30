@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
   
 
-# 🧑🏻‍💻 JEONGHOON PARK
+## 🧑🏻‍💻 Jeong Hoon Park
 
 </br>
 
@@ -16,17 +16,35 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <img src="{링크}"/>
 </p>
 -->
-<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&"/></a>
-<a href="https://www.instagram.com/hoonably/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&"/></a>
+
+<div>
+  <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&" style="height: 25px;"></a>
+  <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px;"></a>
+  <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&" style="height: 25px;"></a>
+  <a href="https://www.instagram.com/hoonably"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px;"></a>
+</div>
 
 <br>
 
-## 📈 Education & Experience
+## 🎓 EDUCATION
 
 | Start | End | Institution	| Details |
 |:-------:|:-----:|:-----:|:-----:|
 | 2020 | ~ |<img src="https://github.com/user-attachments/assets/191a5ba1-dc55-49de-9cb6-39166240aa33" alt="UNIST image" width="25"/> [UNIST](https://www.unist.ac.kr/) | 🎓 B.S. in Computer Science & Engineering|
+
+| UNIST | 2020 ~ now |
+|:-------:|:-----:|
+| **Major** | Advanced Programming, System Programming, <br><a href="https://github.com/hoonably/data-structure" target="_blank">Data Structures</a>, Computer Architecture, Principles of Programming Languages |
+| **Math** | Calculus I, Applied Linear Algebra, <br>Probability and Random Process, Statistics, Discrete Mathematics |
  
+<!-- Institute <span class="about__date">Duration</span>  
+**Course**  
+Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+
+Institute <span class="about__date">Duration</span>  
+**Course**  
+Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  -->
+
 
 <br><br>
 
@@ -38,45 +56,91 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 -->
 
 ## 🛠 PS (Problem Solving)
-### 💡 Baekjoon Online Judge ([solved.ac profile](https://solved.ac/hoonably))
-- <p>🏆 Ranking: # $\huge{\color{#00A4DE}579}$ (Top $\huge{\color{#CF4647}0.39}$%) </p>
-- <p>⏳ Longest Streak: $\huge{\color{#00A4DE}300+α}$  Days (23.12.31 ~ now) </p>
+### Baekjoon Online Judge (<a href="https://solved.ac/hoonably" target="_blank">solved.ac profile</a>)
+  - 2023.12.31 ~ now
+  - 🏆 Ranking: **#579** (Top 0.39%)
+  - ⏳ Longest Streak: **300+α** Days (23.12.31 ~ now)
+  - <a href="https://github.com/hoonably/PS" target="_blank">PS codes repository in github</a>
+  <a href="https://solved.ac/hoonably" style="margin-right: 10px;" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably" alt="Solved.ac 프로필">
+  </a>
+  <a href="https://solved.ac/hoonably" target="_blank">
+    <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile">
+  </a>
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark)](https://solved.ac/hoonably)
-
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably)](https://github.com/2ykwang/solvedac-readme-badge)
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hoonably&compact=1&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
--->
-<br><br>
-
-## 🚀 Projects
-- [Data Structure](https://github.com/hoonably/data-structure) : Data structure by C++
-- [MIPS Assembly]() : 
-
+### ICPC 2024 Seoul Online Preliminary Contest 2024. 10. 26
+  - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
+  - 201st / 455
 
 <br><br>
 
-## 🔭 Interests
-- Software Engineering
-- Web Development (React, Node.js)
-- Cloud Computing (AWS, Docker)
+## 💼 EXPERIENCE
+
+### Math institution (hagwon) - **Topmath**
+  - 2021.7 ~ 2024.7 (3 years)
+  - Math instruction in Korean high school all curriculum.
+  - Calculus, probability and statistics, geometry, etc.
+  - 4-10 students in a class.
+
+<br><br>
+
+## 🚀 PROJECTS
+I want to do some project!
+
+<br><br>
+
+## 🔭 INTERESTS
+
 - Artificial Intelligence
+- System Software
+- Algorithm
 
 <br><br>
 
 ## 🛠 SKILLS 
-
-| Level       | Languages                                 |
-|-------------|-------------------------------------------|
-| Expert      | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)   |
-| Proficient  |   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  |
-| Competent   | ![Python](https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
-| Familiar    | ![Java](https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white) |
-| Novice      | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Expert</td>
+      <td>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" style="display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td>Proficient</td>
+      <td>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" style="display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td>Competent</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white" alt="Python" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" style="display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td>Familiar</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white" alt="Java" style="display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td>Novice</td>
+      <td>
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" alt="MariaDB" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="display: inline-block;">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
