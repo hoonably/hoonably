@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
   
 
-## 🧑🏻‍💻 Jeong Hoon Park
+## 🧑🏻‍💻 Jeonghoon Park
 
 </br>
 
@@ -30,21 +30,8 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 
 | Start | End | Institution	| Details |
 |:-------:|:-----:|:-----:|:-----:|
-| 2020 | ~ |<img src="https://github.com/user-attachments/assets/191a5ba1-dc55-49de-9cb6-39166240aa33" alt="UNIST image" width="25"/> [UNIST](https://www.unist.ac.kr/) | 🎓 B.S. in Computer Science & Engineering|
-
-| UNIST | subjects |
-|:-------:|:-----:|
-| **Major** | Advanced Programming, System Programming, <br><a href="https://github.com/hoonably/data-structure" target="_blank">Data Structures</a>, Computer Architecture, Principles of Programming Languages |
-| **Math** | Calculus I, Applied Linear Algebra, <br>Probability and Random Process, Statistics, Discrete Mathematics |
- 
-<!-- Institute <span class="about__date">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span class="about__date">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  -->
-
+| 2020.03 | ~ |<img src="https://github.com/user-attachments/assets/9202b661-f7a6-4d80-9b4f-10f1bc5a7654" height="50"/><br>[UNIST](https://www.unist.ac.kr/) | 🎓 Bachelor of Science<br>in Computer Science & Engineering|
+| 2025.01 | ~ |<img src="https://github.com/user-attachments/assets/61a0d2c3-2b5d-4809-a8f2-e9288681715e" alt="UNIST image" height="40"/><br>[UAI](https://sites.google.com/view/uailab/home?authuser=0) | 🥼 Undergraduate Intern<br>in Ubiquitous Artificial Intelligence Lab |
 
 <br><br>
 
@@ -57,7 +44,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 
 ## 🛠 PS (Problem Solving)
 ### Baekjoon Online Judge (<a href="https://solved.ac/hoonably" target="_blank">solved.ac profile</a>)
-  - 2023.12.31 ~ now
+  - 2023.12.31 ~ 
   - 🏆 Ranking: **#576** (Top 0.38%)
   - ⏳ Longest Streak: **366** Days (23.12.31 ~ 24.12.31)
   - <a href="https://github.com/hoonably/PS" target="_blank">PS codes repository in github</a>
@@ -72,6 +59,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
   - 2024.10.26
   - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
   - 201st / 455
+
 
 <br><br>
 
@@ -93,8 +81,9 @@ I want to do some project!
 
 ## 🔭 INTERESTS
 
-- Artificial Intelligence
-- System Software
+- On-device AI
+- Adaptive and Personalized AI
+- System programming
 - Algorithm
 
 <br><br>
@@ -112,17 +101,12 @@ I want to do some project!
       <td>Expert</td>
       <td>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white" alt="Python" style="display: inline-block;">
       </td>
     </tr>
     <tr>
       <td>Proficient</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=Python&logoColor=white" alt="Python" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" style="display: inline-block;">
-      </td>
-    </tr>
-    <tr>
-      <td>Competent</td>
       <td>
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" style="display: inline-block;">
       </td>
@@ -130,6 +114,7 @@ I want to do some project!
     <tr>
       <td>Familiar</td>
       <td>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white" alt="Java" style="display: inline-block;">
       </td>
     </tr>
@@ -138,7 +123,6 @@ I want to do some project!
       <td>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" alt="MariaDB" style="display: inline-block;">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="display: inline-block;">
       </td>
     </tr>
   </tbody>
