@@ -109,6 +109,7 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 - On-device AI
 - Adaptive and Personalized AI
 
+<br><br>
 
 ## 🛠 SKILLS 
 <table>
