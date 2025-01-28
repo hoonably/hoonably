@@ -26,13 +26,50 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 
 <br>
 
-## 🎓 EDUCATION
-
-| Start | End | Institution	| Details |
-|:-------:|:-----:|:-----:|:-----:|
-| 2020.03 | ~ |<img src="https://github.com/user-attachments/assets/9202b661-f7a6-4d80-9b4f-10f1bc5a7654" height="50"/><br>[UNIST](https://www.unist.ac.kr/) | 🎓 Bachelor of Science<br>in Computer Science & Engineering|
-| 2025.01 | ~ |<img src="https://github.com/user-attachments/assets/61a0d2c3-2b5d-4809-a8f2-e9288681715e" alt="UNIST image" height="40"/><br>[UAI](https://sites.google.com/view/uailab/home?authuser=0) | 🥼 Undergraduate Intern<br>in Ubiquitous Artificial Intelligence Lab |
-
+## 🎓 EDUCATION & 💼 EXPERIENCE
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Institution</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>2020.03<br>~<br>now</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9202b661-f7a6-4d80-9b4f-10f1bc5a7654" width="150" alt="UNIST Logo"/><br>
+      <a href="https://www.unist.ac.kr/" target="_blank">UNIST</a>
+    </td>
+    <td style="text-align: left;">  <!-- detail -->
+      <b>🎓 Bachelor of Science in Computer Science & Engineering</b><br>
+      - <a href="https://github.com/hoonably/data-structure.git">Data Structure repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2021.07<br>~<br>2024.07</td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/40592a8c-56c4-442e-bf8f-15a40e25f7ed" width="90" alt="Topmath Logo"/><br>
+    Topmath
+    </td>
+    <td style="text-align: left;">  <!-- detail -->
+      <b>🧑🏻‍🏫 Math institution (hagwon)</b><br>
+      - Math instruction in Korean high school all curriculum.<br>
+      - Calculus, probability and statistics, geometry, etc.<br>
+      - Teaching multiple classes on my own, not just part-time.<br>  
+      - 4-10 students in a class.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>2025.01<br>~<br>now</td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/61a0d2c3-2b5d-4809-a8f2-e9288681715e" width="150" alt="UAI Logo"/><br>
+      <a href="https://sites.google.com/view/uailab/home?authuser=0">UAI</a>
+    </td>
+    <td style="text-align: left;">  <!-- detail -->
+      <b>🥼 Undergraduate Intern in Ubiquitous Artificial Intelligence Lab</b><br>
+      - TinyLLM : <a href="https://foil-plant-837.notion.site/Jetson-Nano-181451cf7b798058b1d0dc189ab6d30d?pvs=4">Notion</a><br>
+    </td>
+  </tr>
+</table>
 <br><br>
 
 <!--
@@ -60,22 +97,10 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
   - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
   - 201st / 455
 
-
-<br><br>
-
-## 💼 EXPERIENCE
-
-### Math institution (hagwon) - **Topmath**
-  - 2021.7 ~ 2024.7 (3 years)
-  - Math instruction in Korean high school all curriculum.
-  - Calculus, probability and statistics, geometry, etc.
-  - Teaching multiple classes on my own, not just part-time.
-  - 4-10 students in a class.
-
 <br><br>
 
 ## 🚀 PROJECTS
-I want to do some project!
+- not yet
 
 <br><br>
 
@@ -83,10 +108,7 @@ I want to do some project!
 
 - On-device AI
 - Adaptive and Personalized AI
-- System programming
-- Algorithm
 
-<br><br>
 
 ## 🛠 SKILLS 
 <table>
