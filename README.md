@@ -137,6 +137,8 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
       <td>Proficient</td>
       <td>
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker" style="display: inline-block;"/> 
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" style="display: inline-block;">
       </td>
     </tr>
     <tr>
@@ -144,6 +146,9 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
       <td>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white" alt="Java" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="display: inline-block;"/>
+        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="display: inline-block;">
       </td>
     </tr>
     <tr>
@@ -151,6 +156,9 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
       <td>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" alt="MariaDB" style="display: inline-block;">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" alt="Ubuntu" style="display: inline-block;"> 
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" style="display: inline-block;">
       </td>
     </tr>
   </tbody>
