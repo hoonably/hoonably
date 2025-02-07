@@ -41,7 +41,7 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
     </td>
     <td style="text-align: left;">  <!-- detail -->
       <b>🎓 Bachelor of Science in Computer Science & Engineering</b><br>
-      - <a href="https://github.com/hoonably/data-structure.git">Data Structure repo</a>
+      - Major subjects : Advanced Programming(OOP), System Programming,	 Data Structures, Computer Architecture, Programming Languages, Data Mining, Operating Systems, Algorithms, Information Visualization
     </td>
   </tr>
   <tr>
@@ -66,7 +66,9 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
     </td>
     <td style="text-align: left;">  <!-- detail -->
       <b>🥼 Undergraduate Intern in Ubiquitous Artificial Intelligence Lab</b><br>
-      - TinyLLM : <a href="https://foil-plant-837.notion.site/Jetson-Nano-181451cf7b798058b1d0dc189ab6d30d?pvs=4">Notion</a><br>
+      - Beginning winter term of sophomore year<br>
+      - Presenting paper in English every two weeks<br>
+      - Conducting personal research<br>
     </td>
   </tr>
 </table>
@@ -100,7 +102,10 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <br><br>
 
 ## 🚀 PROJECTS
-- not yet
+**TinyLLM** - Measurement - UAI Lab <span class="about__date">2025.01</span>  
+- Investigating LLMs that can run in resource-constrained environments (such as on-device) and analyzed the accuracy and inference time of each model through various evaluation sets
+- <a href="https://foil-plant-837.notion.site/Jetson-Nano-181451cf7b798058b1d0dc189ab6d30d?pvs=4">Notion</a>
+- <a href="https://github.com/hoonably/TinyLLM">Github Repo</a>
 
 <br><br>
 
