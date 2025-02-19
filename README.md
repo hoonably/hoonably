@@ -1,27 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoonably)
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/hoonably)
 
-## 🧑🏻‍💻 Jeonghoon Park
 
-</br>
-
-<!--
-뱃지 만들기 : 
-https://simpleicons.org/
-https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
-
-Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본적으로는 HTML을 사용해야함.
-<p>
-<img src="{링크}"/>
-<img src="{링크}"/>
-</p>
--->
-
+## 🧑🏻‍💻 Jeong Hoon Park
+Hello, My name is Jeonghoon Park.  
+I have a dream to spend my life studying/researching with good people.
 <div>
-  <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&" style="height: 25px;"></a>
-<!--   <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px;"></a> -->
-  <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&" style="height: 25px;"></a>
-<!--   <a href="https://www.instagram.com/hoonably"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px;"></a> -->
+  <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&" style="height: 25px; display: inline-block;"></a>
+  <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a>
+  <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&" style="height: 25px; display: inline-block;"></a>
+  <a href="https://www.instagram.com/hoonably"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px; display: inline-block;"></a>
 </div>
 
 <br>
@@ -81,28 +68,8 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
 -->
 
-## 🛠 PS (Problem Solving)
-### Baekjoon Online Judge (<a href="https://solved.ac/hoonably" target="_blank">solved.ac profile</a>)
-  - 2023.12.31 ~ 
-  - 🏆 Ranking: **#576** (Top 0.38%)
-  - ⏳ Longest Streak: **366** Days (23.12.31 ~ 24.12.31)
-  - <a href="https://github.com/hoonably/PS" target="_blank">PS codes repository in github</a>
-  <a href="https://solved.ac/hoonably" style="margin-right: 10px;" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably" alt="Solved.ac 프로필">
-  </a>
-  <a href="https://solved.ac/hoonably" target="_blank">
-    <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile">
-  </a>
-
-### ICPC 2024 Seoul Online Preliminary Contest 
-  - 2024.10.26
-  - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
-  - 201st / 455
-
-<br><br>
-
 ## 🚀 PROJECTS
-**TinyLLM** - Measurement - UAI Lab <span class="about__date">2025.01</span>  
+### **TinyLLM** - Measurement - UAI Lab <span class="about__date">2025.01</span>  
 - Investigating LLMs that can run in resource-constrained environments (such as on-device) and analyzed the accuracy and inference time of each model through various evaluation sets
 - <a href="https://foil-plant-837.notion.site/Jetson-Nano-181451cf7b798058b1d0dc189ab6d30d?pvs=4">Notion</a>
 - <a href="https://github.com/hoonably/TinyLLM">Github Repo</a>
@@ -113,6 +80,27 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 
 - On-device AI
 - Adaptive and Personalized AI
+
+<br><br>
+
+## 🛠 PS (Problem Solving)
+### Baekjoon Online Judge (<a href="https://solved.ac/hoonably" target="_blank">solved.ac profile</a>)
+  - 2023.12.31 ~ 
+  - 🏆 Ranking: **#576** (Top 0.38%)
+  - ⏳ Longest Streak: **366** Days (23.12.31 ~ 24.12.31)
+  - <a href="https://github.com/hoonably/PS" target="_blank">PS codes repository in github</a>
+
+  <a href="https://solved.ac/hoonably" style="margin-right: 10px;" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably" alt="Solved.ac 프로필" style="display: inline-block;">
+  </a>
+  <a href="https://solved.ac/hoonably" target="_blank">
+    <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile" style="display: inline-block;">
+  </a>
+
+### ICPC 2024 Seoul Online Preliminary Contest 
+  - 2024.10.26
+  - Team ‘WhereIsWoongJae’ with Hyeonseo Kim, Jaehyun Bang
+  - 201st / 455
 
 <br><br>
 
@@ -178,4 +166,17 @@ Markdown에서 이미지를 두 개씩 붙여서 표시하고 싶다면, 기본�
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+<br><br>
+
+## GITHUB STATS
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoonably&theme=onedark" alt="hoonably" /></a> </p> -->
+
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=5)-->
+<!-- Github에서는 &theme=onedark 사용 -->
+![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=5&theme=onedark)
+
+<img src="https://ghchart.rshah.org/hoonably" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/> -->
