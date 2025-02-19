@@ -13,7 +13,7 @@ I have a dream to spend my life studying/researching with good people.
 
 <br><br>
 
-## 🎓 EDUCATION & 💼 EXPERIENCE
+## 🎓 EDUCATION & 💼&nbsp;EXPERIENCE
 <table>
   <tr>
     <th>Period</th>
