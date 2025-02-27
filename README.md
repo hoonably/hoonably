@@ -1,6 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonably&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/hoonably)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
 
 ## 🧑🏻‍💻 Jeong Hoon Park
 Hello, My name is Jeonghoon Park.  
