@@ -103,7 +103,7 @@ I have a dream to spend my life studying/researching with good people.
 
 <br><br>
 
-## 🛠 SKILLS 
+## 🛠 SKILLS & TRIED
 
 <b>Languages</b>
 <p>
@@ -113,15 +113,15 @@ I have a dream to spend my life studying/researching with good people.
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=OpenJDK&logoColor=white" style="display: inline-block;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" style="display: inline-block;">
+  <!-- <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" style="display: inline-block;"> -->
 </p>
 
 <b>Libraries / Frameworks</b>
 <p>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" style="display: inline-block;">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="display: inline-block;">
+<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="display: inline-block;"> -->
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" style="display: inline-block;">
-<img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green" style="display: inline-block;">
+<!-- <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green" style="display: inline-block;"> -->
 </p>
 
 <b>Tools / Platforms</b>
@@ -147,8 +147,8 @@ I have a dream to spend my life studying/researching with good people.
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" style="display: inline-block;">
 </p>
 
+
 <!--
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=Gradle"/>
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask"/> 
@@ -157,8 +157,6 @@ I have a dream to spend my life studying/researching with good people.
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 -->
 
@@ -169,9 +167,9 @@ I have a dream to spend my life studying/researching with good people.
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoonably&theme=onedark" alt="hoonably" /></a> </p> -->
 
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=5)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=5)
 <!-- Github에서는 &theme=onedark 사용 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=5&theme=onedark)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=8&theme=onedark) -->
 
 <img src="https://ghchart.rshah.org/hoonably" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/> -->
