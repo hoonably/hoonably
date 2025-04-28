@@ -76,8 +76,3 @@ Implemented and benchmarked 12 sorting algorithms under various input types and 
 
 <br><br>
 
-## GITHUB STATS
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hoonably&title=MultiLanguage,Commits,Experience,Organizations,Repositories,PullRequest,Followers&column=8&theme=onedark)
-
-<img src="https://ghchart.rshah.org/hoonably" />  
