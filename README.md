@@ -14,15 +14,11 @@ I'm interested in **On-device AI** because it has clear benefits for privacy and
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/9202b661-f7a6-4d80-9b4f-10f1bc5a7654" width="250" alt="UNIST Logo" />
-
 <i>2020.03.02 – Present</i>  
 **B.S. in Computer Science, [UNIST](https://www.unist.ac.kr/), Republic of Korea**  
 Teaching Assistant, LG Electronics LDC Program (Data Preprocessing & PBL)  
 
 <br>
-
-<img src="https://github.com/user-attachments/assets/40592a8c-56c4-442e-bf8f-15a40e25f7ed" width="150" alt="Topmath Logo" />
 
 <i> 2021.07.05 – Jul. 2024.07.18</i>   
 **Math Instructor, Topmath, Republic of Korea**  
@@ -30,8 +26,6 @@ Primary Role (Multiple Classes, Not Part-Time)
 High School Math (Students achieved Grade 1 in Korean SAT)  
 
 <br>
-
-<img src="https://github.com/user-attachments/assets/61a0d2c3-2b5d-4809-a8f2-e9288681715e" width="250" alt="UAI Logo" />
 
 <i> 2025.01.02 – Present</i>   
 **Undergraduate Research Intern, [UAI Lab](https://sites.google.com/view/uailab/home?authuser=0), Republic of Korea**  
@@ -65,9 +59,6 @@ Implemented and benchmarked 12 sorting algorithms under various input types and 
 
 <a href="https://solved.ac/hoonably" style="margin-right: 10px;" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably" alt="Solved.ac 프로필" style="display: inline-block;">
-</a>
-<a href="https://solved.ac/hoonably" target="_blank">
-  <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile" style="display: inline-block;">
 </a>
 
 **Contest**  
