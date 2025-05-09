@@ -20,7 +20,7 @@ Teaching Assistant, LG Electronics LDC Program (Data Preprocessing & PBL)
 
 <br>
 
-<i> 2021.07 – Jul. 2024.07</i>   
+<i> 2021.07 – 2024.07</i>   
 **Math Instructor, Topmath, Republic of Korea**  
 Primary Role (Multiple Classes, Not Part-Time)  
 High School Math (Students achieved Grade 1 in Korean SAT)  
