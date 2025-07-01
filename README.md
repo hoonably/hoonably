@@ -71,7 +71,7 @@ Winter 2024
 **Pintos Project** <i style="float: right; color: #828282;">2025.03 – 2025.06</i>  
 Implemented core OS components based on Stanford’s Pintos project: thread scheduling, system calls, user programs, virtual memory (demand paging, swapping, mmap), and extensible file system with indexed allocation.
 Completed as a team project for an operating systems course, gaining deep insight into OS internals through hands-on implementation.  
-<a href="https://web.stanford.edu/class/cs140/projects/pintos/pintos.html">Manual</a> / <a href="https://github.com/hoonably/pintos-project">Github Repo</a>
+<a href="https://web.stanford.edu/class/cs140/projects/pintos/pintos.html">Manual</a> / <a href="https://github.com/hoonably/pintos">Github Repo</a>
 
 <br>
 
