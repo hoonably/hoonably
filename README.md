@@ -77,13 +77,13 @@ Completed as a team project for an operating systems course, gaining deep insigh
 
 **Traveling Salesman Problem (TSP) Solver** <i style="float: right; color: #828282;">2025.05 – 2025.06</i>  
 Implemented and analyzed classical TSP algorithms (Held-Karp, MST, Greedy, 2-opt) alongside a novel MCMF-based heuristic combining global flow and local refinement. Evaluated solution quality and runtime across diverse datasets.  
-<a href="https://hoonably.github.io/files/Solving_the_Traveling_Salesman_Problem.pdf">PDF</a> / <a href="https://github.com/hoonably/traveling-salesman">Github Repo</a>
+<a href="https://hoonably.github.io/traveling-salesman">PDF</a> / <a href="https://github.com/hoonably/traveling-salesman">Github Repo</a>
 
 <br>
 
 **Sorting Algorithm Analysis** <i style="float: right; color: #828282;">2025.04 – 2025.04</i>  
 Implemented and benchmarked 12 sorting algorithms under various input types and data conditions, analyzing performance, stability, and memory usage.  
-<a href="https://hoonably.github.io/files/Sorting_Algorithm_Analysis_and_Implementation.pdf">PDF</a> / <a href="https://github.com/hoonably/Sorting-Project">Github Repo</a>
+<a href="https://hoonably.github.io/sorting-project/">PDF</a> / <a href="https://github.com/hoonably/Sorting-Project">Github Repo</a>
 
 <br>
 
