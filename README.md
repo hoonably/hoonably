@@ -89,7 +89,7 @@ Implemented and benchmarked 12 sorting algorithms under various input types and 
 
 **TinyLLM - UAI Lab**  <i style="float: right; color: #828282;">2025.01 – 2025.02</i>  
 Investigating LLMs that can run in resource-constrained environments (such as on-device) and analyzed the accuracy and inference time of each model through various evaluation sets  
-<a href="https://foil-plant-837.notion.site/TinyLLM-181451cf7b798058b1d0dc189ab6d30d?pvs=4">Notion</a> / <a href="https://github.com/hoonably/TinyLLM">Github Repo</a>  
+<a href="https://foil-plant-837.notion.site/tinyllm">Notion</a> / <a href="https://github.com/hoonably/TinyLLM">Github Repo</a>  
 
 <br><br>
 
