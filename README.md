@@ -23,7 +23,7 @@ I'm interested in **On-device AI** because it has clear benefits for privacy and
 Supervisor: Prof. Taesik Gong  
 Research on On-Device AI, Human-Centered AI, Adaptive & Personalized AI   
 Read and presented academic papers in English on recent advances in the field  
-Working on lightweight image generation with Diffusion and AR-based models  
+Researching compute-efficient techniques for on-device AI  
 
 
 <br>
