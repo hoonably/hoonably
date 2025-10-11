@@ -16,88 +16,98 @@ I'm interested in **On-device AI** because it has clear benefits for privacy and
 
 ## EXPERIENCE
 
-<img src="/images/UAI_logo2.png" width="150" alt="UAI Logo" />
+<img src="/images/UAI_logo2.png" width="150" alt="UAI Logo"/>
 
-<i> 2025.01 – Present</i>   
-**Undergraduate Research Intern, [UAI Lab](https://sites.google.com/view/uailab/home?authuser=0), Republic of Korea**  
+**[UAI Lab](https://sites.google.com/view/uailab/home?authuser=0)** – <i>Ulsan, Republic of Korea</i>  
+Undergraduate Research Intern, Republic of Korea  
 Supervisor: Prof. Taesik Gong  
-Research on On-Device AI, Human-Centered AI, Adaptive & Personalized AI   
-Read and presented academic papers in English on recent advances in the field  
-Researching compute-efficient techniques for on-device AI  
+2025.01 – Present  
+- Research on On-Device AI, Human-Centered AI, Adaptive & Personalized AI
+- Presented and discussed recent papers on cutting-edge AI research
+- Authored and submitted a paper to a top-tier CS conference
 
 
 <br>
 
-<img src="/images/Topmath.png" width="150" alt="Topmath Logo" />
+<img src="/images/Topmath.png" width="150" alt="Topmath Logo"/>
 
-<i> 2021.07 – 2024.07</i>   
-**Math Instructor, Topmath, Republic of Korea**  
-Primary (non-part-time) instructor for multiple classes of students aged 14–19  
-Taught 30+ students over 3 years with personalized, level-based instruction  
-Planned lessons and monitored progress to support measurable academic growth  
+**Topmath** – <i>Incheon, Republic of Korea</i>  
+Math Instructor  
+2021.07 – 2024.07
+- Served as a full-time instructor for multiple classes of students aged 14-19
+- Taught 30+ students over 3 years with personalized, level-based instruction
+- Planned lessons and monitored progress to support measurable academic growth
 
 <br><br>
 
 ## EDUCATION
 
-<img src="/images/UNIST_logo.png" width="150" alt="UNIST Logo" />
+<img src="/images/UNIST_logo.png" width="150" alt="UNIST Logo"/>
 
-<i>2020.03 – Present</i>  
-**B.S. in Computer Science and Engineering (CSE), [UNIST](https://www.unist.ac.kr/), Republic of Korea**  
-Club : EarthCops (Soccer)
+**[UNIST](https://www.unist.ac.kr/)** – <i>Ulsan, Republic of Korea</i>  
+B.S. in Computer Science and Engineering (CSE)  
+2020.03 – Present  
+- Academic Excellence Award - GPA 4.0+/4.3 (Fall 2024, Spring 2025)
+- Clubs: EarthCops (Soccer), Unplugged (Band)
 
 <br><br>
 
-## TEACHING
-
-<!-- Fall 2025 -->
-<!-- - Data Structure (CSE221), Teaching Assistant, UNIST -->
-
-Summer 2025
-- AI Theory Education, Teaching Assistant, Ulsan AI Novatus Academia (8th)
-- Project-Based Learning (PBL), Teaching Assistant, Gyeongnam AI Novatus Academia (6th)
-- Theory Education, Teaching Assistant, LG Electronics Living DX Course
-
-Spring 2025
-- AI Theory Education, Teaching Assistant, Gyeongnam AI Novatus Academia (6th)
-
-Winter 2024
-- Project-Based Learning (PBL), Teaching Assistant, LG Electronics Living DX Course
-- Theory Education, Teaching Assistant, LG Electronics Living DX Course
+## PUBLICATIONS
+“Topic : Efficient AI Agent”  
+Mingyu Kim, Jeonghoon Park, Hojun Lee, Taesik Gong  
+Under review at a top-tier conference  
 
 <br><br>
 
 ## PROJECTS
 
 **Pintos Project** <i style="float: right; color: #828282;">2025.03 – 2025.06</i>  
-Implemented core OS components based on Stanford’s Pintos project: thread scheduling, system calls, user programs, virtual memory (demand paging, swapping, mmap), and extensible file system with indexed allocation.
-Completed as a team project for an operating systems course, gaining deep insight into OS internals through hands-on implementation.  
+Implemented core OS components based on Stanford’s Pintos project: thread scheduling, system
+calls, user programs, virtual memory, and extensible file system with indexed allocation  
+Completed as a two-person team project for an operating systems course  
 <a href="https://web.stanford.edu/class/cs140/projects/pintos/pintos.html">Manual</a> / <a href="https://github.com/hoonably/pintos">Github Repo</a>
 
 <br>
 
 **Traveling Salesman Problem (TSP) Solver** <i style="float: right; color: #828282;">2025.05 – 2025.06</i>  
-Implemented and analyzed classical TSP algorithms (Held-Karp, MST, Greedy, 2-opt) alongside a novel MCMF-based heuristic combining global flow and local refinement. Evaluated solution quality and runtime across diverse datasets.  
+Designed and implemented classical TSP algorithms (Held-Karp, MST, Greedy) and a novel
+MCMF-based heuristic  
+Evaluated solution quality and runtime on diverse datasets  
 <a href="https://hoonably.github.io/traveling-salesman">PDF</a> / <a href="https://github.com/hoonably/traveling-salesman">Github Repo</a>
 
 <br>
 
 **Sorting Algorithm Analysis** <i style="float: right; color: #828282;">2025.04 – 2025.04</i>  
-Implemented and benchmarked 12 sorting algorithms under various input types and data conditions, analyzing performance, stability, and memory usage.  
+Implemented and benchmarked 12 sorting algorithms under various input conditions  
+Analyzed performance, stability, and memory usage  
 <a href="https://hoonably.github.io/sorting-project/">PDF</a> / <a href="https://github.com/hoonably/Sorting-Project">Github Repo</a>
 
 <br>
 
 **TinyLLM - UAI Lab**  <i style="float: right; color: #828282;">2025.01 – 2025.02</i>  
-Investigating LLMs that can run in resource-constrained environments (such as on-device) and analyzed the accuracy and inference time of each model through various evaluation sets  
+Explored LLM architectures optimized for resource-constrained environments  
+Analyzed accuracy and inference time on evaluation sets  
 <a href="https://foil-plant-837.notion.site/tinyllm">Notion</a> / <a href="https://github.com/hoonably/TinyLLM">Github Repo</a>  
 
 <br><br>
 
-## Problem Solving
-**Baekjoon Online Judge**  <i style="float: right; color: #828282;">2023.12 – Present</i>  
-Best Ranking: <u>#576</u> (Top 0.38%)  
-Longest Streak: <u>366 Days</u> (23.12.31 ~ 24.12.31)  
+## TEACHING
+**Teaching Assistant (TA)**  
+- Project-Based Learning (PBL), Gyeongnam AI Novatus Academia (6th), 2025.06 - 2025.09
+- AI Theory Education, Ulsan AI Novatus Academia (8th), 2025.07
+- Theory Education, LG Electronics Living DX Course, 2025.07
+- AI Theory Education, Gyeongnam AI Novatus Academia (6th), 2025.05
+- Project-Based Learning (PBL), LG Electronics Living DX Course, 2025.02 - 2025.03
+- AI Theory Education, LG Electronics Living DX Course, 2025.01
+
+<br><br>
+
+## PROBLEM SOLVING
+**Baekjoon Online Judge**  
+Best Ranking: #576 (Top 0.38%)  
+Longest Streak: 366 Days (2023.12 - 2024.12)  
+Total Solved: 1000+ Problems  
+Primary Language: C++  
 <a href="https://solved.ac/hoonably" target="_blank">solved.ac profile</a> /
 <a href="https://github.com/hoonably/PS" target="_blank">PS codes repo</a> /
 <a href="https://github.com/hoonably/algorithm" target="_blank">Algorithm repo</a>
