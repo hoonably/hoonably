@@ -1,4 +1,3 @@
-
 ## Me
 
 👋 Hi, I’m an undergraduate student in Department of **Computer Science and Engineering (CSE)** at [UNIST](https://www.unist.ac.kr/).  
@@ -10,7 +9,7 @@ Currently, I’m doing an undergraduate research internship at UNIST’s <a href
 
 I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy meeting new people, approach things in a highly practical and structured way, and try to maintain a positive mindset. Feel free to reach out; I’m easy to talk to.  
 
-<br><br>
+<br>
 
 ## More Detail
 <!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a> -->
@@ -26,9 +25,10 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 <a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="height: 22px; display: inline-block;"></a>
 → The best way for formal or detailed inquiries.
 
-<br><br>
-
 <!--
+
+<br>
+
 ## EXPERIENCE
 
 <img src="/images/UAI_logo2.png" width="150" alt="UAI Logo"/>
