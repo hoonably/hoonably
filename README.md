@@ -1,19 +1,34 @@
 
 ## Me
 
-I’m an undergraduate student in Department of **Computer Science and Engineering (CSE)** at [UNIST](https://www.unist.ac.kr/).  
+👋 Hi, I’m an undergraduate student in Department of **Computer Science and Engineering (CSE)** at [UNIST](https://www.unist.ac.kr/).  
 
-I'm interested in **On-device AI** because it has clear benefits for privacy and personalization. I'm particularly interested in solving problems related to running AI efficiently in limited hardware environments. Currently, I'm doing an undergraduate research internship at UNIST's <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a> with professor <a href="https://taesikgong.com/">Taesik Gong</a>, learning a lot and also doing some personal research.
-<div>
-  <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/-Website-EF4223?style=flat&logo=codeigniter&logoColor=white&" style="height: 25px; display: inline-block;"></a>
-  <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a>
-  <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&" style="height: 25px; display: inline-block;"></a>
-  <a href="https://www.instagram.com/hoonably"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px; display: inline-block;"></a>
-  <a href="mailto:{{ site.author.email }}"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" style="height: 25px; display: inline-block;"></a>
-</div>
+I’m interested in On-device AI because it has clear benefits for privacy and personalization.
+I’m particularly interested in solving problems related to running AI efficiently in limited hardware environments.  
+
+Currently, I’m doing an undergraduate research internship at UNIST’s <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a> with professor <a href="https://taesikgong.com/">Taesik Gong</a>, learning a lot and also doing some personal research.  
+
+I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy meeting new people, approach things in a highly practical and structured way, and try to maintain a positive mindset. Feel free to reach out; I’m easy to talk to.  
 
 <br><br>
 
+## More Detail
+<!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a> -->
+<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+→ Find my portfolio, projects, and technical blog posts.
+
+<a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+→ Let's connect professionally or just follow my updates.
+
+<a href="https://www.instagram.com/hoonably"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+→ For casual chats and a peek into my daily life!
+
+<a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="height: 22px; display: inline-block;"></a>
+→ The best way for formal or detailed inquiries.
+
+<br><br>
+
+<!--
 ## EXPERIENCE
 
 <img src="/images/UAI_logo2.png" width="150" alt="UAI Logo"/>
@@ -115,9 +130,9 @@ Primary Language: C++
 <a href="https://solved.ac/hoonably" style="margin-right: 10px;" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably" alt="Solved.ac 프로필" style="display: inline-block;">
 </a>
-<!-- <a href="https://solved.ac/hoonably" target="_blank">
+<a href="https://solved.ac/hoonably" target="_blank">
   <img src="http://mazandi.herokuapp.com/api?handle=hoonably&theme=dark" alt="mazandi profile" style="display: inline-block;">
-</a> -->
+</a> 
 
 <br>
 
@@ -125,4 +140,4 @@ Primary Language: C++
 <a href="https://icpckorea.org/2024-seoul/preliminary">ICPC 2024 Seoul Preliminary Contest</a> - 201st  
 <a href="https://github.com/user-attachments/assets/97edb7e4-69f2-4c7d-bcd8-40ac526ae9a1">UDPC 2025 Senior Division</a> - 11th  
 
-<br><br>
+<br><br> -->
