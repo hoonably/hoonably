@@ -16,6 +16,9 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 <a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
 → Find my portfolio, projects, and technical blog posts.
 
+<a href="https://drive.google.com/file/d/1I9_mLarky-ie7kCpFxayDdNngEZmmGyG/view?usp=sharing"><img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readdotcv&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+→ For a detailed view of my academic and professional journey.
+
 <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="height: 22px; display: inline-block;"></a>
 → Let's connect professionally or just follow my updates.
 
