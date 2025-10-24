@@ -13,7 +13,7 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 
 ## More Detail
 <!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a> -->
-<a href="https://hoonably.github.io/"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+<a href="https://jeonghoonpark.com/"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
 → Find my portfolio, projects, and technical blog posts.
 
 <a href="https://drive.google.com/file/d/1I9_mLarky-ie7kCpFxayDdNngEZmmGyG/view?usp=sharing"><img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readdotcv&logoColor=white&" style="height: 22px; display: inline-block;"></a>
