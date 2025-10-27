@@ -1,4 +1,10 @@
-## Me
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hoonably.hoonably">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I+am+Jeonghoon+Park;Nice+to+meet+you+%F0%9F%98%80" alt="Typing SVG" /></a>
+</h1>
+
+
 
 👋 Hi, I’m an undergraduate student in Department of **Computer Science and Engineering (CSE)** at [UNIST](https://www.unist.ac.kr/).  
 
@@ -9,9 +15,10 @@ Currently, I’m doing an undergraduate research internship at UNIST’s <a href
 
 I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy meeting new people, approach things in a highly practical and structured way, and try to maintain a positive mindset. Feel free to reach out; I’m easy to talk to.  
 
-<br>
 
-## More Detail
+---
+
+
 <!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a> -->
 <a href="https://jeonghoonpark.com/"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
 → Find my portfolio, projects, and technical blog posts.
