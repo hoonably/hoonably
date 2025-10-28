@@ -35,6 +35,25 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 <a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="height: 22px; display: inline-block;"></a>
 → The best way for formal or detailed inquiries.
 
+
+---
+
+
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonably)](https://solved.ac/hoonably)
+-->
+
+<a href="https://solved.ac/hoonably" target="_blank">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoonably" width="550" alt="hyp3rflow's solved.ac stats">
+</a>
+
+
+<!--
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoonably)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonably&stats_format=bytes)
+-->
+
 <!--
 
 <br>
