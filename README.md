@@ -20,17 +20,17 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 
 <!-- Find my portfolio, projects, and technical blog posts at [https://jeonghoonpark.com](https://jeonghoonpark.com) -->
 
-<a href="https://jeonghoonpark.com"><img src="https://img.shields.io/badge/Website-143055?style=flat&logo=apachespark&logoColor=white&" style="height: 22px; display: inline-block;"></a>
-<a href="https://drive.google.com/file/d/1I9_mLarky-ie7kCpFxayDdNngEZmmGyG/view?usp=sharing"><img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readdotcv&logoColor=white&" style="height: 22px; display: inline-block;"></a>
+<a href="https://jeonghoonpark.com"><img src="https://img.shields.io/badge/Website-2C3E50?style=flat&logo=apachespark&logoColor=white&" style="display: inline-block;"></a>
+<a href="https://drive.google.com/file/d/1I9_mLarky-ie7kCpFxayDdNngEZmmGyG/view?usp=sharing"><img src="https://img.shields.io/badge/CV-1F6F43?style=flat&logo=readdotcv&logoColor=white&" style="height: 22px; display: inline-block;"></a>
 
-<!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 22px; display: inline-block;"></a> -->
-<a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="height: 22px; display: inline-block;"></a>
-<a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="height: 22px; display: inline-block;"></a>
+<!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="display: inline-block;"></a> -->
+<a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="display: inline-block;"></a>
+<a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-0F4C5C?style=flat&logo=gmail&logoColor=white" style="display: inline-block;"></a>
 
 <h2></h2>
 <br>
 
-<a href="https://solved.ac/hoonably"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably" style="height: 22px; display: inline-block;"></a>
+<a href="https://solved.ac/hoonably"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably" style="display: inline-block;"></a>
 
 
 <!--
