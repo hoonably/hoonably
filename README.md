@@ -5,15 +5,10 @@
 </h1>
 
 
+👋 Hi, I'm an undergraduate student in the Department of Computer Science and Engineering at [UNIST](https://www.unist.ac.kr/).
 
-👋 Hi, I’m an undergraduate student in Department of **Computer Science and Engineering (CSE)** at [UNIST](https://www.unist.ac.kr/).  
+I'm interested in On-device AI and Efficient AI systems at UNIST’s <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a>, under the guidance of Prof. <a href="https://taesikgong.com/">Taesik Gong</a>.
 
-I’m interested in On-device AI because it has clear benefits for privacy and personalization.
-I’m particularly interested in solving problems related to running AI efficiently in limited hardware environments.  
-
-Currently, I’m doing an undergraduate research internship at UNIST’s <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a> with professor <a href="https://taesikgong.com/">Taesik Gong</a>, learning a lot and also doing some personal research.  
-
-I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy meeting new people, approach things in a highly practical and structured way, and try to maintain a positive mindset. Feel free to reach out; I’m easy to talk to.  
 
 <h2></h2>
 <br>
@@ -22,13 +17,9 @@ I’m also a strong **ESTJ**, with each trait scoring well over 90%. I enjoy mee
 
 <a href="https://jeonghoonpark.com"><img src="https://img.shields.io/badge/Website-2C3E50?style=flat&logo=apachespark&logoColor=white&" style="display: inline-block;"></a>
 <a href="https://drive.google.com/file/d/1I9_mLarky-ie7kCpFxayDdNngEZmmGyG/view?usp=sharing"><img src="https://img.shields.io/badge/CV-1F6F43?style=flat&logo=readdotcv&logoColor=white&" style="height: 22px; display: inline-block;"></a>
-
 <!-- <a href="https://github.com/hoonably"><img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white&" style="display: inline-block;"></a> -->
 <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="display: inline-block;"></a>
 <a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-0F4C5C?style=flat&logo=gmail&logoColor=white" style="display: inline-block;"></a>
-
-<h2></h2>
-<br>
 
 <a href="https://solved.ac/hoonably"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably" style="display: inline-block;"></a>
 
