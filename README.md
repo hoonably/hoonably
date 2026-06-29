@@ -5,10 +5,9 @@
 </h1>
 
 
-👋 Hi, I'm an undergraduate student in the Department of Computer Science and Engineering at [UNIST](https://www.unist.ac.kr/).
+👋 Hi, I'm an incoming M.S./Ph.D. student in the Department of Computer Science and Engineering at [UNIST](https://www.unist.ac.kr/).
 
-I'm interested in On-device AI and Efficient AI systems at UNIST’s <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a>, under the guidance of Prof. <a href="https://taesikgong.com/">Taesik Gong</a>.
-
+I work on On-device AI and efficient AI systems at UNIST's <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a>, advised by Prof. <a href="https://taesikgong.com/">Taesik Gong</a>.
 
 <h2></h2>
 
@@ -22,9 +21,9 @@ More detail at [https://jeonghoonpark.com](https://jeonghoonpark.com)
 <!-- <a href="https://www.linkedin.com/in/hoonably"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lerna&logoColor=white&" style="display: inline-block;"></a>
 <a href="mailto:hoonably@unist.ac.kr"><img src="https://img.shields.io/badge/Email-0F4C5C?style=flat&logo=gmail&logoColor=white" style="display: inline-block;"></a> -->
 
-<h2></h2>
+<!-- <h2></h2> -->
 
-<a href="https://solved.ac/hoonably"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably" style="display: inline-block;"></a>
+<!-- <a href="https://solved.ac/hoonably"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hoonably" style="display: inline-block;"></a> -->
 
 
 <!--
