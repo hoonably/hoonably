@@ -4,10 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=4000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I+am+Jeonghoon+Park;Nice+to+meet+you+%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
 
+🎓 Incoming M.S.–Ph.D. student in Computer Science & Engineering at [UNIST](https://www.unist.ac.kr/).
 
-👋 Hi, I'm an incoming M.S./Ph.D. student in the Department of Computer Science and Engineering at [UNIST](https://www.unist.ac.kr/).
+🔬 Member of the <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a>, advised by Prof. <a href="https://taesikgong.com/">Taesik Gong</a>.
 
-I work on On-device AI and efficient AI systems at UNIST's <a href="https://sites.google.com/view/uailab/home/">Ubiquitous AI Lab</a>, advised by Prof. <a href="https://taesikgong.com/">Taesik Gong</a>.
+💡 Interested in on-device AI and efficient AI systems.
 
 <h2></h2>
 
